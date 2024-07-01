@@ -24,7 +24,7 @@ Type part of a snippet, press `enter`, and the snippet unfolds.
 | `mui-avatar-simple`           | Simple avatar                                                |
 | `mui-avatar-icon`             | Avatar with icon                                             |
 | `mui-badges`                  | Badges                                                       |
-| `mui-botnav`                  | Bottom navaigation                                           |
+| `mui-botnav`                  | Bottom navigation                                           |
 | `mui-btn`                     | Simple button                                                |
 | `mui-btn-float`               | Float button                                                 |
 | `mui-btn-icon`                | Icon button                                                  |
